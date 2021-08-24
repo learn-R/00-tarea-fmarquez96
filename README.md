@@ -73,14 +73,15 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R:Felipe Marquez ya�ez
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:
+R: r es un lenguaje de programacion, mientras que rstudio es un sofware que utiliza este lenguaje
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+con el boton push en github
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
